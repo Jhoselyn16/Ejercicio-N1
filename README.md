@@ -1,2 +1,2 @@
 # Albert Einstein
-Ejercicio Práctico 1 
+Ejercicio Práctico N1 
